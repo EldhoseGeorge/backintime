@@ -5,6 +5,7 @@
 # Back In Time
 <sub>Copyright (C) 2008-2022 Oprea Dan, Bart de Koning, Richard Bailey, Germar Reitze, Taylor Raack<sub>
  
+ this is learning branch 
 It is an easy to use backup tool for Linux heavily using [`rsync`](https://rsync.samba.org/) in the back. It was inspired by [FlyBack](https://en.wikipedia.org/wiki/FlyBack).
 It provides a command line tool `backintime` and a Qt5 GUI `backintime-qt` both written in Python3.
 
